@@ -70,7 +70,7 @@ aside {
 // Navigation
 
 .navbar-default {
-    background-color: white;
+    background-color: $grey-color;
     border-color: rgba($theme-dark, .5);
     @include sans-serif-font;
     @include transition-all;
@@ -214,6 +214,7 @@ header {
 .service-box {
     max-width: 400px;
     margin: 50px auto 0;
+    background-color: $grey-color;
     @media (min-width: 992px) {
         margin: 20px auto 0;
     }
@@ -317,8 +318,9 @@ header {
 
 // Contact
 #contact .fa {
-    color: $theme-dark;
+    color: white;
     font-size: 4em;
+    background-color: $grey-color;
 }
 
 // Extras
