@@ -51,6 +51,11 @@ p {
     color: white;
 }
 
+.bg-grey {
+    background-color: $grey-color;
+    color: white;
+}
+
 .text-faded {
     color: rgba(white, .7);
 }
@@ -209,13 +214,6 @@ header {
 
 .section-heading {
     margin-top: 0;
-}
-
-.grey-container {
-    margin-top: 0;
-    margin-bottom: 0;
-    background-color: $grey-color;
-    color: white;
 }
 
 .service-box {
