@@ -70,7 +70,7 @@ aside {
 // Navigation
 
 .navbar-default {
-    background-color: $grey-color;
+    background-color: white;
     border-color: rgba($theme-dark, .5);
     @include sans-serif-font;
     @include transition-all;
@@ -100,9 +100,9 @@ aside {
                 > a,
                 > a:focus {
                     color: $theme-primary !important;
-                    background-color: $grey-color;
+                    background-color: transparent;
                     &:hover {
-                        background-color: $grey-color;
+                        background-color: transparent;
                     }
                 }
             }
@@ -214,9 +214,6 @@ header {
 .service-box {
     max-width: 400px;
     margin: 50px auto 0;
-    background: $grey-color;
-    background-color: $grey-color;
-    color: white;
     @media (min-width: 992px) {
         margin: 20px auto 0;
     }
@@ -320,9 +317,8 @@ header {
 
 // Contact
 #contact .fa {
-    color: white;
+    color: $theme-dark;
     font-size: 4em;
-    background: $grey-color;
 }
 
 // Extras
