@@ -4,7 +4,7 @@ email:
 description: Welcome to the Rat Cave! 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-favicon: 'img/trc.ico'
+favicon: 'img/trc.png'
 
 twitter_username:
 github_username:
