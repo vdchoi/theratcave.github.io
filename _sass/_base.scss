@@ -100,9 +100,9 @@ aside {
                 > a,
                 > a:focus {
                     color: $theme-primary !important;
-                    background-color: transparent;
+                    background-color: $grey-color;
                     &:hover {
-                        background-color: transparent;
+                        background-color: $grey-color;
                     }
                 }
             }
@@ -214,7 +214,9 @@ header {
 .service-box {
     max-width: 400px;
     margin: 50px auto 0;
+    background: $grey-color;
     background-color: $grey-color;
+    color: white;
     @media (min-width: 992px) {
         margin: 20px auto 0;
     }
@@ -320,7 +322,7 @@ header {
 #contact .fa {
     color: white;
     font-size: 4em;
-    background-color: $grey-color;
+    background: $grey-color;
 }
 
 // Extras
