@@ -1,10 +1,10 @@
 [
   
     {
-      "title"    : "The most popular mistakes",
+      "title"    : "Welcome to The Rat Cave",
       "category" : "",
-      "tags"     : "Lifehacks",
-      "url"      : "/galada/the-most-popular-mistakes/",
+      "tags"     : "Discord",
+      "url"      : "/the-most-popular-mistakes/",
       "date"     : "2018-08-23 06:05:55 -0700"
     } ,
   
@@ -12,7 +12,7 @@
       "title"    : "Night city lights",
       "category" : "",
       "tags"     : "Cities",
-      "url"      : "/galada/night-city-lights/",
+      "url"      : "/night-city-lights/",
       "date"     : "2018-08-23 06:04:55 -0700"
     } ,
   
@@ -20,7 +20,7 @@
       "title"    : "Premiere on Broadway",
       "category" : "",
       "tags"     : "Rest",
-      "url"      : "/galada/premiere-on-broadway/",
+      "url"      : "/premiere-on-broadway/",
       "date"     : "2018-08-23 06:04:00 -0700"
     } ,
   
@@ -28,7 +28,7 @@
       "title"    : "Abstraction as art",
       "category" : "",
       "tags"     : "Art",
-      "url"      : "/galada/abstraction-as-art/",
+      "url"      : "/abstraction-as-art/",
       "date"     : "2018-08-23 06:03:50 -0700"
     } ,
   
@@ -36,7 +36,7 @@
       "title"    : "The path to self-perfection",
       "category" : "",
       "tags"     : "Life",
-      "url"      : "/galada/the-path-to-self-perfection/",
+      "url"      : "/the-path-to-self-perfection/",
       "date"     : "2018-08-23 06:03:30 -0700"
     } ,
   
@@ -44,7 +44,7 @@
       "title"    : "How to Plan a Camping Trip",
       "category" : "",
       "tags"     : "Trip",
-      "url"      : "/galada/how-to-plan-a-camping-trip/",
+      "url"      : "/how-to-plan-a-camping-trip/",
       "date"     : "2018-08-23 06:03:00 -0700"
     } ,
   
@@ -52,7 +52,7 @@
       "title"    : "Flower Care Guide",
       "category" : "",
       "tags"     : "Guide and Flowers",
-      "url"      : "/galada/flower-care-guide/",
+      "url"      : "/flower-care-guide/",
       "date"     : "2018-08-23 06:02:00 -0700"
     } ,
   
@@ -60,7 +60,7 @@
       "title"    : "Welcome to Jekyll!",
       "category" : "",
       "tags"     : "Jekyll",
-      "url"      : "/galada/welcome-to-jekyll/",
+      "url"      : "/welcome-to-jekyll/",
       "date"     : "2018-05-29 08:05:55 -0700"
     } 
   
