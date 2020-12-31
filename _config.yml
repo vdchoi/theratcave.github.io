@@ -1,21 +1,15 @@
 #-------------------------------
 # General Site Settings
 
-<<<<<<< HEAD
-title: Galada Theme | Theme for Jekyll
-description: Galada is an easy and simple theme for Jekyll. Dark colors, give it a special exquisite look. A careful approach to design and features make it an ideal solution for a personal blog. # this means to ignore newlines until "baseurl:"
-baseurl: "/galada" # the subpath of your site, e.g. /blog
-=======
 title: The Rat Cave | Discord Server
 description: The Rat Cave is a fast-growing, tight-knit gaming community. We offer hosted lobbies for games ranging from Among Us to Minecraft. # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
->>>>>>> parent of 0304214... Update URL
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://vdchoi.github.io/theratcave.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
 # About Section
-author-name:   Natali Anderson
+author-name: vikkyc
 author-avatar: 09.jpg
 
 
@@ -34,7 +28,7 @@ disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example
 
 #-------------------------------
 # Instagram Feed
-instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
+instafeed: false # To enable the instafeed, use the value true. To turn off use the value false.
 
 
 #-------------------------------
