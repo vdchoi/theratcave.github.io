@@ -34,7 +34,7 @@ I'm an Internationally Recognized Cosplayer! Most of you have probably already s
 
 Hi everyone, it's Vic. Hope you’re having a great day.
 
-In the server, I'm responsible for our data and growth planning. To introduce myself, I’ll just share some of my interests:
+In the server, I'm responsible for our data, website and growth planning. To introduce myself, I’ll just share some of my interests:
 
 **Work**  
 In real life, I work as a senior data scientist managing product analytics and algorithm development. Always down to nerd out about data-related topics, or help out if you have any questions in your stats/math classes!
