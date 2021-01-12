@@ -9,11 +9,13 @@ permalink: /staff/
 ***
 
 
-![]({{site.baseurl}}/img/eury.jpg)
+![]({{site.baseurl}}/img/eury.png)
 
 Hey Everyone! It's Eury
 
-As most of you already know, I'm the Server Owner!<span class="spoiler">basically, I run this shit.</span> Here are some facts about me: 
+As most of you already know, I'm the Server Owner! 
+>! Basically, I run this shit.
+Here are some facts about me: 
 
 **Work**
 I'm currently a Lead Solutions Architect working in Tech. If anyone needs resume help, interview prep, or anything professional related, feel free to reach out!
@@ -28,7 +30,7 @@ I'm an Internationally Recognized Cosplayer! Most of you have probably already s
 
 ***
 
-![]({{site.baseurl}}/img/vikkyc.jpg)
+![]({{site.baseurl}}/img/vikkyc.png)
 
 Hi everyone, it's Vic. Hope you’re having a great day.
 
@@ -45,7 +47,7 @@ I was a classical piano instructor throughout college to fund my eating-out craz
 
 ***
 
-![]({{site.baseurl}}/img/seb.jpg)
+![]({{site.baseurl}}/img/seb.png)
 
 What's good everyone, it's Seb!
 
@@ -58,12 +60,12 @@ I manage mechanics, but I'm currently venting into a different profession.
 My main hobbies are music, dancing, and athletics (specifically boxing and lifting). I love cooking up a storm in the kitchen when I can and reading during my downtime. 
 
 **Fun Fact**
-I'm the bartender of Los Ratas
-<span class="spoiler">I'm not actually an alcoholic, I just like drinking excessive amounts of alcohol</span>
+I'm the bartender of Los Ratas 
+>! I'm not actually an alcoholic, I just like drinking excessive amounts of alcohol 
 
 ***
 
-![]({{site.baseurl}}/img/dano.jpg)
+![]({{site.baseurl}}/img/dano.png)
 
 Hey y'all, Dano here! 
 You've probably seen me lurking. I manage moderation for the server, but here's a bit more about me: 
@@ -81,7 +83,7 @@ I'm a big fan of reading, as well as watching shows so feel free to share your f
 
 ***
 
-![]({{site.baseurl}}/img/lonk.jpg)
+![]({{site.baseurl}}/img/lonk.png)
 
 Honk Honk! Its Lonk!
 
@@ -114,7 +116,7 @@ I do card magic! If you wanna see some, I'll often be qberting in the VIP lounge
 
 ***
 
-![]({{site.baseurl}}/img/ajay.jpg)
+![]({{site.baseurl}}/img/ajay.png)
 
 Hey guys, I'm Ajay.
 
