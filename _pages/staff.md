@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Meet the Staff
-permalink: /staff/
+title: Meet the Team
+permalink: /team/
 image: 10.jpg
 ---
 
-### Introducing our Staff
+### Introducing our Senior Team
 
 ***
 
