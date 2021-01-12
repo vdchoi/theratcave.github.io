@@ -2,6 +2,7 @@
 layout: page
 title: Meet the Staff
 permalink: /staff/
+image: 10.jpg
 ---
 
 ### Introducing our Staff
