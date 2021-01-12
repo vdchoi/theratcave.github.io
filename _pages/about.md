@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About The Rat Cave
-image: 08.jpg
+image: night-sky.jpg
 permalink: /about/
 ---
 
