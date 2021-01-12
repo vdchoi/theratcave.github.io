@@ -15,7 +15,6 @@ image: 10.jpg
 Hey Everyone! It's Eury
 
 As most of you already know, I'm the Server Owner! 
->! Basically, I run this shit.
 Here are some facts about me: 
 
 **Work**  
@@ -62,7 +61,7 @@ My main hobbies are music, dancing, and athletics (specifically boxing and lifti
 
 **Fun Fact**  
 I'm the bartender of Los Ratas 
->! I'm not actually an alcoholic, I just like drinking excessive amounts of alcohol 
+~~! I'm not actually an alcoholic, I just like drinking excessive amounts of alcohol ~~
 
 ***
 
@@ -101,7 +100,7 @@ I'm the youngest admin and the only sibling of five born in a different state in
 
 ***
 
-![]({{site.baseurl}}/img/qbert.jpg)
+<img style="text-align: center" src="{{site.baseurl}}/img/qbert.jpg" height="300">
 
 Howdy! I'm Q-Bert!
 As the lead host, it's my job to make sure everyone has a good experience - whether or not I'm in the vc. Here's some other stuff I do:
