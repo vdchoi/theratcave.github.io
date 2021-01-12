@@ -10,7 +10,7 @@ image: 10.jpg
 ***
 
 
-![]({{site.baseurl}}/img/eury.png)
+<img style="text-align: center" src="eury.png" height="300">
 
 Hey Everyone! It's Eury
 
