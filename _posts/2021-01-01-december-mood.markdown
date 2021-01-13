@@ -6,7 +6,7 @@ image:  december.jpg
 tags:   Music
 ---
 
-> Mood for my week. <br>Hopefully y'all are feeling blessed - if not I got chu <br>- Lonk
+> Mood for the week. <br>Hopefully y'all are feeling blessed - if not I got you. <br>- Lonk
 
 
 #### The Rat Cave Playlist for December 2020
