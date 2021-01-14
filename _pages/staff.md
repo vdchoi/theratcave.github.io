@@ -5,8 +5,6 @@ permalink: /team/
 image: 10.jpg
 ---
 
-***
-
 
 <img style="text-align: center" src="{{site.baseurl}}/img/eury.png" height="300">
 
