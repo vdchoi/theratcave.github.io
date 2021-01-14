@@ -5,8 +5,6 @@ permalink: /team/
 image: 10.jpg
 ---
 
-### Introducing our Senior Team
-
 ***
 
 
@@ -98,6 +96,9 @@ I enjoy a little bit of everything but as of right now; my hobbies are playing v
 **Fun Fact**  
 I'm the youngest admin and the only sibling of five born in a different state in the US (not from the west coast.
 
+***
+
+### Introducing our Senior Team  
 ***
 
 <img style="text-align: center" src="{{site.baseurl}}/img/qbert.jpg" height="300">
