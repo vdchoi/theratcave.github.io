@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Meet the Team
+title: Meet the Rats
 permalink: /team/
 image: 10.jpg
 ---
@@ -98,7 +98,7 @@ I'm the youngest admin and the only sibling of five born in a different state in
 
 ***
 
-### Introducing our Senior Team  
+### Introducing our Staff  
 ***
 
 <img style="text-align: center" src="{{site.baseurl}}/img/qbert.jpg" height="300">
