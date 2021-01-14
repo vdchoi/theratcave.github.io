@@ -3,7 +3,7 @@
 
 title: The Rat Cave | Discord Server
 description: The Rat Cave is a fast-growing, tight-knit gaming community. We offer hosted lobbies for games ranging from Among Us to Minecraft. # this means to ignore newlines until "baseurl:"
-baseurl: "/theratcave.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
