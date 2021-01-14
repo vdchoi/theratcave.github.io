@@ -57,7 +57,7 @@ My main hobbies are music, dancing, and athletics (specifically boxing and lifti
 
 **Fun Fact**  
 I'm the bartender of Los Ratas 
-~~! I'm not actually an alcoholic, I just like drinking excessive amounts of alcohol ~~
+~~I'm not actually an alcoholic, I just like drinking excessive amounts of alcohol~~
 
 ***
 
