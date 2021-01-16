@@ -70,7 +70,7 @@ $(function() {
           }, 100);
         }, 500);
       },
-      waitForAll: false
+      waitForAll: true
     });
   });
 
@@ -83,7 +83,7 @@ $(function() {
 
           if (el_top < win_bottom) {
             $(this)
-              .delay(i * 100)
+              .delay(i * 0)
               .queue(function() {
                 $(this).addClass("reveal-in");
               });
