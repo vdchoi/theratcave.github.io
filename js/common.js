@@ -68,7 +68,7 @@ $(function() {
           setTimeout(function () {
             reveals();
           }, 100);
-        }, 500);
+        }, 100);
       },
       waitForAll: true
     });
@@ -83,7 +83,7 @@ $(function() {
 
           if (el_top < win_bottom) {
             $(this)
-              .delay(i * 0)
+              .delay(i * 100)
               .queue(function() {
                 $(this).addClass("reveal-in");
               });
