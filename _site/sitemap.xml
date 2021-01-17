@@ -1,31 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
 <url>
-<loc>http://localhost:4000/december-playlist/</loc>
-<lastmod>2021-01-01T05:04:55-08:00</lastmod>
+  <loc>https://theratcavediscord.com/</loc>
+  <lastmod>2021-01-17T09:48:33+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>http://localhost:4000/minecraft-realms/</loc>
-<lastmod>2021-01-13T22:48:55-08:00</lastmod>
+  <loc>https://theratcavediscord.com/about/</loc>
+  <lastmod>2021-01-17T09:48:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/january-playlist/</loc>
-<lastmod>2021-01-14T05:04:55-08:00</lastmod>
+  <loc>https://theratcavediscord.com/team/</loc>
+  <lastmod>2021-01-17T09:48:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/winter-anime-2021/</loc>
-<lastmod>2021-01-15T12:59:55-08:00</lastmod>
+  <loc>https://theratcavediscord.com/winter-anime-2021/</loc>
+  <lastmod>2021-01-17T09:48:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/about/</loc>
+  <loc>https://theratcavediscord.com/tags/</loc>
+  <lastmod>2021-01-17T09:48:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+  <loc>https://theratcavediscord.com/january-playlist/</loc>
+  <lastmod>2021-01-17T09:48:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/team/</loc>
+  <loc>https://theratcavediscord.com/minecraft-realms/</loc>
+  <lastmod>2021-01-17T09:48:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/tags/</loc>
+  <loc>https://theratcavediscord.com/december-playlist/</loc>
+  <lastmod>2021-01-17T09:48:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
+<url>
+  <loc>https://theratcavediscord.com/the-rat-cave/</loc>
+  <lastmod>2021-01-17T09:48:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>
