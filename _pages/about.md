@@ -21,3 +21,4 @@ We are an Among Us focused server for everyone to hang out and play games togeth
 - Extremely active, friendly, and growing community
 - Monthly server updates!
 - Open to suggestions from all members
+
