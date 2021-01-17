@@ -22,3 +22,5 @@ We are an Among Us focused server for everyone to hang out and play games togeth
 - Monthly server updates!
 - Open to suggestions from all members
 
+
+![]({{site.baseurl}}/img/RatCaveWelcome.jpg)
