@@ -8,7 +8,7 @@ tags:   Minecraft
 
 As The Rat Cave, we naturally need a Realm. A Minecraft Realm that is.
 
-Come join us in The Rat Realm, a server-exclusive Minecraft Ream! 
+Come join us in The Rat Realm, a server-exclusive Minecraft Realm! 
 
 ![]({{site.baseurl}}/img/mchouse.jpeg)
 
