@@ -14,11 +14,11 @@
               {% for page in site.pages %}
                 {% unless page.name == 'tags.html' or page.name == '404.html' %}
               {% if page.title %}
-              <li class="menu-item"><a href="{{ page.url }}" class="menu-link">{{ page.title }}</a></li>
+              <li class="menu-item"><a href="{{ page.url | prepend: site.baseurl }}" class="menu-link">{{ page.title }}</a></li>
               {% endif %}
                 {% endunless %}
               {% endfor %}
-              <li class="menu-item"><a href="{{ site.discord }}" class="menu-link"> Join our Discord <i class="fab fa-discord"></i></a></li>
+              <li class="menu-item"><a href="{{ site.discord }}" class="menu-link"> Join our Discord </a></li>
             </ul>
           </nav>
           <div class="nav-buttons">
