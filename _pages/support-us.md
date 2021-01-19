@@ -59,7 +59,7 @@ Be on the look out for our The Rat Cave Patreon, The Rat Cave merchandise, and T
 
 ##### Again, thank you all of our supporters. We wouldn't have been able to do this without you all. #####  
 
-<img style="text-align: center" src="{{site.baseurl}}/img/mouseses.png" height="300">
+<img style="text-align: center" src="{{site.baseurl}}/img/mouseses.png" height="200">
 
 
 
