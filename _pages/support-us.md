@@ -5,7 +5,7 @@ image: mouse.jpg
 permalink: /support-us/
 ---
 
-### Want to support The Rat Cave? <br>Here are some ways! ###  
+### Want to support The Rat Cave? Here are some ways! ###  
 
 
 ***  
