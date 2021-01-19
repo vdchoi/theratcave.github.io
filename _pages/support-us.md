@@ -53,6 +53,8 @@ If you have interest in joining our growing team, please reach out to Seb.
 
 ***  
 
+##### 2021 #####  
+
 We will continue to work on additional exciting ways for you to support us in 2021.  
 Be on the look out for our The Rat Cave Patreon, The Rat Cave merchandise, and The Rat Cave Instagram/[Spotify] channels incoming!  
 
