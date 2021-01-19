@@ -7,9 +7,7 @@ permalink: /support-us/
 
 ### Want to support The Rat Cave? Here are some ways! ###  
 
-
 ***  
-
 ##### Top.gg #####  
 
 Vote for [The Rat Cave] on Top.gg!  
@@ -19,7 +17,6 @@ Link to vote: <http://top.gg/servers/498363103545917441/vote>
 [The Rat Cave]: http://top.gg/servers/498363103545917441/vote  
 
 ***
-
 ##### Discord Server Boosts #####  
 
 Come join our [Discord Server] and support us by boosting!  
@@ -45,19 +42,17 @@ Invite link: <https://discord.gg/theratcave>
 [Discord Server]: https://discord.gg/theratcave
 
 ***  
-
 ##### Join our Team #####  
 
 We are looking for additional staff to support our bold 2021 plans!  
 If you have interest in joining our growing team, please reach out to Seb.  
 
 ***  
-
 ##### Incoming in 2021 #####  
 
 We will continue to work on additional exciting ways for you to support us in 2021.  
 Be on the look out for our The Rat Cave Patreon, The Rat Cave merchandise, and The Rat Cave Instagram/[Spotify] channels incoming!  
-
+  
 
 
 [Spotify]: https://open.spotify.com/user/j0w6hqs23lpasaed9lhdy30m7
