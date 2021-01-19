@@ -1,0 +1,55 @@
+---
+layout: page
+title: Support Us
+image: mouse.jpg
+permalink: /support-us/
+---
+
+### Want to support The Rat Cave? Here are some ways! ###  
+
+
+***  
+
+##### Top.gg #####  
+
+Vote for [The Rat Cave] on Top.gg
+You can vote for free once every 12 hours!
+Link to vote: <http://top.gg/servers/498363103545917441/vote>
+
+[The Rat Cave]: http://top.gg/servers/498363103545917441/vote  
+
+***
+
+##### Discord Server Boosts #####  
+
+Come join our [Discord Server] and support us by boosting!  
+Invite link: <https://discord.gg/theratcave>  
+
+Of course, we offer some exciting perks as a huge thank you to all of our server boosters:  
+-  The exclusive @Super Rats role at the top of the member list
+-  Access to Reactor where you can hang out in the #server-boosters chat with the Admins/Mods and other boosters!
+-  Hosted Proximity Chat Lobbies!
+-  Free card magic shows!!
+-  Priority lobbies and custom lobbies with the Admins
+-  Priority in Host applications 
+-  Streaming + Video permissions in voice channels
+-  ALL CAPS PERMISSIONS
+-  Embedded links + gif permissions
+-  3X voting power in events and polls
+-  Access to our exclusive Minecraft Realms server!
+-  Ability to invite your friend and share the Server Boosting perks together as @Baby Rats !
+-  Gambling in #big-dons-casino for exclusive titles!
+-  Become some of the first people to help grow this server!
+-  Our undying love
+
+[Discord Server]: https://discord.gg/theratcave
+
+***  
+
+We are continuing to work on additional exciting ways for you to support us.  
+Be on the look out for The Rat Cave Patreon, The Rat Cave merchandise, and The Rat Cave Instagram/Spotify channels incoming!
+
+##### Huge thank you to all of our supporters! #####  
+
+
+
