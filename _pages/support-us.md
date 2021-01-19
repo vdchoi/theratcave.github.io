@@ -25,7 +25,7 @@ Link to vote: <http://top.gg/servers/498363103545917441/vote>
 Come join our [Discord Server] and support us by boosting!  
 Invite link: <https://discord.gg/theratcave>  
 
-**Of course, we offer some exciting perks as a huge thank you to all of our server boosters:**  
+**Of course, we offer some exciting perks as a thank you to all of our server boosters:**  
 -  The exclusive @Super Rats role at the top of the member list
 -  Access to Reactor where you can hang out in the #server-boosters chat with the Admins/Mods and other boosters!
 -  Hosted Proximity Chat Lobbies!
