@@ -13,7 +13,7 @@ permalink: /support-us/
 ##### Top.gg #####  
 
 Vote for [The Rat Cave] on Top.gg!  
-You can vote for free once every 12 hours.
+You can vote for free once every 12 hours.  
 Link to vote: <http://top.gg/servers/498363103545917441/vote>
 
 [The Rat Cave]: http://top.gg/servers/498363103545917441/vote  
@@ -53,7 +53,7 @@ If you have interest in joining our growing team, please reach out to Seb.
 
 ***  
 
-##### 2021 #####  
+##### Incoming in 2021 #####  
 
 We will continue to work on additional exciting ways for you to support us in 2021.  
 Be on the look out for our The Rat Cave Patreon, The Rat Cave merchandise, and The Rat Cave Instagram/[Spotify] channels incoming!  
