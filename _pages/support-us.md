@@ -45,7 +45,7 @@ Invite link: <https://discord.gg/theratcave>
 ##### Join our Team #####  
 
 We are looking for additional staff to support our bold 2021 plans!  
-If you have interest in joining our growing team, please reach out to Seb.  
+If you have interest in joining our growing team, please reach out to Seb (seb#1285).
 
 ***  
 ##### Incoming in 2021 #####  
@@ -58,6 +58,10 @@ Be on the look out for our The Rat Cave Patreon, The Rat Cave merchandise, and T
 [Spotify]: https://open.spotify.com/user/j0w6hqs23lpasaed9lhdy30m7
 
 ##### Again, thank you all of our supporters. We wouldn't have been able to do this without you all. #####  
+
+<img style="text-align: center" src="{{site.baseurl}}/img/mouseses.png" height="300">
+
+
 
 
 
