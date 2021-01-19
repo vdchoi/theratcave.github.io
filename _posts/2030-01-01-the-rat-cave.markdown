@@ -6,8 +6,9 @@ image:  06.jpg
 tags:   [Discord]
 ---
 
-Come join The Rat Cave. We are an inclusive and tight-knit gaming community, growing at an incredible speed.
+Come join [The Rat Cave].  We are an inclusive and tight-knit gaming community, growing at an incredible speed.
 
+[The Rat Cave]: https://discord.gg/theratcave
 #### Perks #####
 - REGULAR DISCORD NITRO GIVEAWAYS!
 - Level 3 Server Nitro Boosted perks
