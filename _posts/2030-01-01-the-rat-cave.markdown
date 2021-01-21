@@ -4,6 +4,7 @@ title:  Welcome to The Rat Cave
 date:   2030-08-23 16:05:55 +0300
 image:  06.jpg
 tags:   [Discord]
+description: We are an inclusive and tight-knit gaming community. Come join us for Daily Hosted Among Us Lobbies, In-house Games/Streams, Source Quality Anime Streams, and much more!
 ---
 
 Come join [The Rat Cave].  
@@ -17,7 +18,7 @@ Daily Hosted Among Us Lobbies, In-house Games/Streams, Source Quality Anime Nigh
 - Level 3 Server Nitro Boosted perks
 - Daily gaming lobbies run by admins and hosts that cater to skill level
 - Daily Anime and Gaming events (Group Anime nights + game invites/streams)
-- 230+ emotes including Crewmate/Imposter emotes
+- 250+ emotes including Crewmate/Imposter emotes
 - Active gamers (Among Us, Minecraft, Mobile Legends, Fall Guys, etc.)
 - Active admins, moderators, and lobby hosts
 - Self-Roles
@@ -25,7 +26,9 @@ Daily Hosted Among Us Lobbies, In-house Games/Streams, Source Quality Anime Nigh
 - Monthly server updates!
 - Open to suggestions from all members
 
-<img style="text-align: center" src="{{site.baseurl}}/img/RatCaveWelcome.jpg" height="200">
+<img style="text-align: center" src="{{site.baseurl}}/img/RatCaveWelcome.jpg" height="200">  
+
+
 
 
 

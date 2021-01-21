@@ -3,6 +3,7 @@ layout: page
 title: About The Rat Cave
 image: night-sky.jpg
 permalink: /about/
+description: The Rat Cave is an Among Us Focused Discord server for everyone to hang out and play games together! Perks include Discord Nitro Giveaways, daily gaming lobbies, active staff, and an active, friendly, and growing community!
 ---
 
 #### Welcome to The Rat Cave! ####
@@ -14,7 +15,7 @@ We are an Among Us focused server for everyone to hang out and play games togeth
 - Level 3 Server Nitro Boosted perks
 - Daily gaming lobbies run by admins and hosts that cater to skill level
 - Daily Anime and Gaming events (Group Anime nights + game invites/streams)
-- 230+ emotes including Crewmate/Imposter emotes
+- 250+ emotes including Crewmate/Imposter emotes
 - Active gamers (Among Us, Minecraft, Mobile Legends, Fall Guys, etc.)
 - Active admins, moderators, and lobby hosts
 - Self-Roles

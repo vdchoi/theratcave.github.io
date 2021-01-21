@@ -3,6 +3,7 @@ layout: page
 title: Support Us
 image: mouse.jpg
 permalink: /support-us/
+description: Want to support The Rat Cave? Here are some ways! Join our team or booster community, follow our Spotify, or vote for us!
 ---
 
 ### Want to support The Rat Cave? Here are some ways! ###  

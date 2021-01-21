@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
 
-title: The Rat Cave | Discord Server
-description: The Rat Cave is a fast-growing, tight-knit gaming community. We offer hosted lobbies for games ranging from Among Us to Minecraft. # this means to ignore newlines until "baseurl:"
+title: The Rat Cave | Discord Community
+description: The Rat Cave is a fast-growing, tight-knit gaming community. We offer Daily Hosted Among Us Lobbies, In-house Games, Source Quality Anime Streams...Come join us today! # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -49,6 +49,7 @@ permalink: ':title/'
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 paginate: 7
 paginate_path: "/page/:num"
