@@ -14,5 +14,6 @@ Come join us in The Rat Realm, a server-exclusive Minecraft Realm!
 ![]({{site.baseurl}}/img/mchouse.jpeg)  
 ![]({{site.baseurl}}/img/minecraft1.jpeg)  
 ![]({{site.baseurl}}/img/minecraft2.jpeg)  
-![]({{site.baseurl}}/img/minecraft3.jpeg)
+![]({{site.baseurl}}/img/minecraft3.jpeg)  
+Images by Hannah
 
