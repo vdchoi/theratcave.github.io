@@ -9,7 +9,8 @@ description: As The Rat Cave, we naturally need a Realm. A Minecraft Realm that 
 
 As The Rat Cave, we naturally need a Realm. A Minecraft Realm that is.
 
-Come join us in The Rat Realm, a server-exclusive Minecraft Realm! 
+Come join us in [The Rat Realm], a server-exclusive Minecraft Realm! 
+[The Rat Realm]: https://discord.gg/theratcave  
 
 ![]({{site.baseurl}}/img/mchouse.jpeg)  
 ![]({{site.baseurl}}/img/minecraft1.jpeg)  
