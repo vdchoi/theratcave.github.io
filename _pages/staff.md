@@ -57,7 +57,7 @@ I manage mechanics, but I'm currently venting into a different profession.
 My main hobbies are music, dancing, and athletics (specifically boxing and lifting). I love cooking up a storm in the kitchen when I can and reading during my downtime. 
 
 **Fun Fact**  
-I'm the bartender of Los Ratas 
+I'm the bartender of Los Ratas  
 ~~I'm not actually an alcoholic, I just like drinking excessive amounts of alcohol~~
 
 ***
@@ -109,10 +109,12 @@ As the lead host, it's my job to make sure everyone has a good experience - whet
 I am currently a full-time student, studying engineering!
 
 **Hobbies**  
-Other than my addiction interest in Among Us, I play Rocket League, Smash Bros, and Warframe. I also enjoy Rock Climbing and Yugioh! 
+Other than my 
+~~addiction~~
+ interest in Among Us, I play Rocket League, Smash Bros, and Warframe. I also enjoy Rock Climbing and Yugioh! 
 
 **Fun Fact**  
-I do card magic! If you wanna see some, I'll often be qberting in the VIP lounge!
+I do card magic! If you wanna see some, I'll often be streaming in the VIP lounge!
 
 ***
 
