@@ -14,7 +14,7 @@ description: The Rat Cave's spotify playlist for January 2021. Enjoy our curated
 
 We made it to 2021! We're excited to charge into the new year. 
 
-Enjoy our playlist to be more productive in January, featuring just-realeased songs from artists such as LiSA, Epik High, and ONE OK ROCK  
+Enjoy our playlist to be more productive in January, featuring just-realeased songs from artists such as LiSA, Epik High, and Yorushika.
 
 Cheers!
 
