@@ -142,11 +142,11 @@ Hey guys, I’m Stella!
 
 As the Lead Community Manager, my role to give out advice and help with any issues. My goal is to build engagement and make sure people have a great time in the server. Feel free to reach out at any time! I don’t bite 😊
 
-**Work**
+**Work**  
 I’m a recent psychology graduate so I’m looking for a job atm. Aspiring to be an educational psychologist!
 
-**Hobbies**
+**Hobbies**  
 Apart from Among Us, atm I’m loving Valorant, Phasmophobia and League of Legends. I love board games!! Have a few varieties of Monopoly and have a big collection of MTG cards.
 
-**Fun Fact**
+**Fun Fact**  
 I was a Lithuanian table tennis junior winner in 2008. Challenge me, I dare you 😏
