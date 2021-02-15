@@ -7,10 +7,12 @@ tags:   Music
 description: Studying? Working? Relaxing? Come hop in our new 24-hr Music Playlist streams!
 ---
 
-#### Introducing...lofi-rats and r&b-rats!
+#### Introducing...Lofi Rats and R&B Rats!
 
 If you are like us, you probably spend way too much time in our server, even when you're not playing games.  
 Studying? Working? Relaxing? Come hop in our new music streaming voice channels, playing 24-7, every day of the week!  
+
+***
 
 #### Lofi Rats  
 
@@ -18,6 +20,8 @@ Studying? Working? Relaxing? Come hop in our new music streaming voice channels,
 
 Lofi-style music, synced to the time of the day! (In PST)  
 Bebop will play standard lofi music for work during the day, and relaxing lofi music for winding down at night.  
+
+***
 
 #### R&B Rats  
 
