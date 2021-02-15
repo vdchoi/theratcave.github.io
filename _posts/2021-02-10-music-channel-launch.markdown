@@ -4,7 +4,7 @@ title:  24hr Music Channels Launch
 date:   2021-02-10 16:04:55 +0300
 image:  concert.jpg
 tags:   Music
-description: Studying? Working? Relaxing? Come hop in our new 24-hr Music Playlist streams!
+description: Studying? Working? Relaxing? Come join our new 24-hr Music Playlist streams!
 ---
 
 #### Introducing...Lofi Rats and R&B Rats!
