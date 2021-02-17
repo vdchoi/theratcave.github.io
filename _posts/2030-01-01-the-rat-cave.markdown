@@ -9,7 +9,7 @@ description: We are an inclusive and tight-knit gaming community. Come join us f
 
 Come join [The Rat Cave].  
 We are an inclusive and tight-knit gaming community, growing at an incredible speed.  
-Daily Hosted Among Us Lobbies, In-house Games/Streams, Source Quality Anime Nights, and much more!
+Daily Hosted Gaming Lobbies, In-house Games/Streams, Source Quality Anime Nights, and much more!
 
 [The Rat Cave]: https://discord.gg/theratcave
  

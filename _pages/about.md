@@ -8,7 +8,7 @@ description: The Rat Cave is an Among Us Focused Discord server for everyone to 
 
 #### Welcome to The Rat Cave! ####
 
-We are an Among Us focused server for everyone to hang out and play games together!
+The Rat Cave is an inclusive and tight-knit gaming server, that hosts a safe community for our members to meet new friends and play games together!
 
 ##### Perks #####
 - REGULAR DISCORD NITRO GIVEAWAYS!
