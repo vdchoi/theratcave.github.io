@@ -14,7 +14,7 @@ description: The Rat Cave's spotify playlist for February 2021. Featured artists
 
 February is here!  
 
-February means that the school year is starting to get busy again all of you students.  
+February means that the school year is starting to get busy again all of our students.  
 Valentine's Day is also upon us, while the chilly winter weather continues to blow outside.  
 
 Like Lonk says, take care of yourself this month. Stay warm out there!  
