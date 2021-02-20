@@ -21,7 +21,7 @@ Link to vote: <http://top.gg/servers/498363103545917441/vote>
 ##### Discord Server Boosts #####  
 
 Come join our [Discord Server] and support us by boosting!  
-Invite link: <https://discord.gg/theratcave>  
+Invite link: <{{ site.discord }}>  
 
 **Of course, we offer some exciting perks as a thank you to all of our server boosters:**  
 -  The exclusive @Super Rats role at the top of the member list
@@ -40,7 +40,7 @@ Invite link: <https://discord.gg/theratcave>
 -  Become some of the first people to help grow this server!
 -  Our undying love
 
-[Discord Server]: https://discord.gg/theratcave
+[Discord Server]: {{ site.discord }}
 
 ***  
 ##### Join our Team #####  
