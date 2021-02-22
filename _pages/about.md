@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About The Rat Cave
-image: RatCaveWelcome.jpg
+image: mouseses.png
 permalink: /about/
 description: The Rat Cave is an inclusive and tight-knit gaming server, that hosts a safe community for our members to meet new friends and play games together!
 ---
@@ -25,5 +25,6 @@ Come join our [Discord Server]!
 - Self-Roles
 - Extremely active, friendly, and growing community
 - Monthly server updates!
-- Open to suggestions from all members
+- Open to suggestions from all members  
 
+<img style="text-align: center" src="{{site.baseurl}}/img/RatCaveWelcome.jpg" height="200">
