@@ -8,10 +8,9 @@ description: The Rat Cave is an inclusive and tight-knit gaming server, that hos
 
 #### Welcome to The Rat Cave! ####
 
-[The Rat Cave] is an inclusive and tight-knit gaming server, that hosts a safe community for our members to meet new friends and play games together!  
-Come join our [Discord Server]!  
+The Rat Cave is an inclusive and tight-knit gaming server, that hosts a safe community for our members to meet new friends and play games together!  
 
-[The Rat Cave]: {{ site.discord }}  
+Come join our [Discord Server]!  
 
 [Discord Server]: {{ site.discord }}  
 
