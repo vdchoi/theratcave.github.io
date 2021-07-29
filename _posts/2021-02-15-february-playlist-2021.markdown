@@ -4,13 +4,13 @@ title:  February Mood
 date:   2021-02-15 16:04:55 +0300
 image:  february.jpg
 tags:   Music
-description: The Rat Cave's spotify playlist for February 2021. Featured artists include Journey, Chika, and Peach Tree Rascals.  
+description: Kotatsu's spotify playlist for February 2021. Featured artists include Journey, Chika, and Peach Tree Rascals.  
 ---
 
 > My mood this month is warmth. <br>May ya'll find warmth and love from your S.O. this month. <br>And love thyself <br>Hope you have a beautiful month! <br>- Lonk
 
 
-#### The Rat Cave Playlist for February 2021
+#### Kotatsu Playlist for February 2021
 
 February is here!  
 

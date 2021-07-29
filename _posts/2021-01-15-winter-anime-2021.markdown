@@ -4,7 +4,7 @@ title:  Winter 2021 Anime Season!
 date:   2021-01-15 23:59:55 +0300
 image:  anime-girl.jpg
 tags:   Anime
-description: It's another season of new anime! The Rat Cave will be streaming anime episodes in source quality. Featured streams include Promised Nevererland, Log Horizon, Attack on Titan, and more.
+description: It's another season of new anime! Kotatsu will be streaming anime episodes in source quality. Featured streams include Promised Nevererland, Log Horizon, Attack on Titan, and more.
 ---
 
 It's another season of new anime! 🎉🎉🎉

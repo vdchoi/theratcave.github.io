@@ -3,19 +3,19 @@ layout: page
 title: Support Us
 image: mouse.jpg
 permalink: /support-us/
-description: Want to support The Rat Cave? Here are some ways! Join our team or booster community, follow our Spotify, or vote for us!
+description: Want to support Kotatsu? Here are some ways! Join our team or booster community, follow our Spotify, or vote for us!
 ---
 
-### Want to support The Rat Cave? Here are some ways! ###  
+### Want to support Kotatsu? Here are some ways! ###  
 
 ***  
 ##### Top.gg #####  
 
-Vote for [The Rat Cave] on Top.gg!  
+Vote for [Kotatsu] on Top.gg!  
 You can vote for free once every 12 hours.  
 Link to vote: <http://top.gg/servers/498363103545917441/vote>
 
-[The Rat Cave]: http://top.gg/servers/498363103545917441/vote  
+[Kotatsu]: http://top.gg/servers/498363103545917441/vote  
 
 ***
 ##### Discord Server Boosts #####  
@@ -52,7 +52,7 @@ If you have interest in joining our growing team, please reach out to Seb (seb#1
 ##### Incoming in 2021 #####  
 
 We will continue to work on additional exciting ways for you to support us in 2021.  
-Be on the look out for our The Rat Cave Patreon, The Rat Cave merchandise, and The Rat Cave Instagram/[Spotify] channels incoming!  
+Be on the look out for Kotatsu merchandise and Kotatsu Instagram/[Spotify] channels incoming!  
   
 
 

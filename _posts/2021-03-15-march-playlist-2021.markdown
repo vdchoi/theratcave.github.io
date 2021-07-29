@@ -4,13 +4,13 @@ title:  March Mood
 date:   2021-03-15 16:04:55 +0300
 image:  march.jpg
 tags:   Music
-description: The Rat Cave's spotify playlist for March 2021. Featured artists include Jhene Aiko, IU, and Porter Robinson.  
+description: Kotatsu's spotify playlist for March 2021. Featured artists include Jhene Aiko, IU, and Porter Robinson.  
 ---
 
 > My mood this month is hope. <br>So much is going on but have hope and stay positive. <br>- Lonk
 
 
-#### The Rat Cave Playlist for March 2021
+#### Kotatsu Playlist for March 2021
 
 March!  
 

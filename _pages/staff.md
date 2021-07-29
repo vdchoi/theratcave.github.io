@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Meet the Rats
+title: Meet the Staff
 permalink: /team/
 image: 10.jpg
-description: Have you ever wondered who the staff behind The Rat Cave are? Learn about Eury, members of Los Ratas, and your dedicated staff.
+description: Have you ever wondered who the staff behind Kotatsu are? Learn about Eury, members of Los Ratas, and your dedicated staff.
 ---
 
 

@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About The Rat Cave
+title: About Kotatsu
 image: mouseses.png
 permalink: /about/
-description: The Rat Cave is an inclusive and tight-knit gaming server, that hosts a safe community for our members to meet new friends and play games together!
+description: Kotatsu is an inclusive and tight-knit gaming server, that hosts a safe community for our members to meet new friends and play games together!
 ---
 
-#### Welcome to The Rat Cave! ####
+#### Welcome to Kotatsu! ####
 
-The Rat Cave is an inclusive and tight-knit gaming server, that hosts a safe community for our members to meet new friends and play games together!  
+Kotatsu is an inclusive and tight-knit gaming server, that hosts a safe community for our members to meet new friends and play games together!  
 
 Come join our [Discord Server]!  
 

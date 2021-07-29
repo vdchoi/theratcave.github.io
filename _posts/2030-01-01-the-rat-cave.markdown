@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  Welcome to The Rat Cave
+title:  Welcome to Kotatsu
 date:   2030-08-23 16:05:55 +0300
 image:  06.jpg
 tags:   [Discord]
 description: We are an inclusive and tight-knit gaming community. Come join us for Daily Hosted Among Us Lobbies, In-house Games, Source Quality Anime Streams, and more!
 ---
 
-Come join [The Rat Cave].  
+Come join [Kotatsu].  
 We are an inclusive and tight-knit gaming community, growing at an incredible speed.  
 Daily Hosted Gaming Lobbies, In-house Games/Streams, Source Quality Anime Nights, and much more!
 
-[The Rat Cave]: {{ site.discord }}
+[Kotatsu]: {{ site.discord }}
  
 #### Perks #####
 - REGULAR DISCORD NITRO GIVEAWAYS!
