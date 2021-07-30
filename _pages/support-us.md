@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Support Us
-image: mouse.jpg
+image: kotatsu_banner.jpg
 permalink: /support-us/
 description: Want to support Kotatsu? Here are some ways! Join our team or booster community, follow our Spotify, or vote for us!
 ---
@@ -23,22 +23,23 @@ Link to vote: <http://top.gg/servers/498363103545917441/vote>
 Come join our [Discord Server] and support us by boosting!  
 Invite link: <{{ site.discord }}>  
 
-**Of course, we offer some exciting perks as a thank you to all of our server boosters:**  
--  The exclusive @Super Rats role at the top of the member list
--  Access to Reactor where you can hang out in the #server-boosters chat with the Admins/Mods and other boosters!
--  Hosted Proximity Chat Lobbies!
--  Free card magic shows!!
--  Priority lobbies and custom lobbies with the Admins
--  Priority in Host applications 
--  Streaming + Video permissions in voice channels
--  ALL CAPS PERMISSIONS
--  Embedded links + gif permissions
--  3X voting power in events and polls
--  Access to our exclusive Minecraft Realms server!
--  Ability to invite your friend and share the Server Boosting perks together as @Baby Rats!
--  Gambling in #big-dons-casino for exclusive titles!
--  Become some of the first people to help grow this server!
--  Our undying love
+**Boosting gets you a special role and unique perks in the server:**  
+- The exclusive @Server Boosters role 
+- Access to Reactor where you can hang out in the #server-boostiez chat with the Myself, Admins, and other boosters!
+- Access to our exclusive Minecraft Realms server!
+- Gambling in #big-dons-casino for exclusive titles and Discord Nitro!
+-  @Diamond Hands?
+- #kountatsu for a chance to win Discord Nitro!
+- Streaming + Video permissions in voice channels
+- Embedded links + gif permissions
+- Free card magic shows!! :qberting: 
+- Priority lobbies and custom lobbies with the Admins (and me, occasionally)
+- Priority in Staff applications 
+- ALL CAPS PERMISSIONS
+- 3X voting power in events and polls
+- Ability to invite your friend and share the Server Boosting perks together as @VIP Guests !
+- Become some of the people to help grow this server!
+- My undying love
 
 [Discord Server]: {{ site.discord }}
 
