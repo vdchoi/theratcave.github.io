@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Kotatsu
-image: kotatsu_logo.png
+image: kotatsu_banner_final.png
 permalink: /about/
 description: Kotatsu is an inclusive and tight-knit gaming server, that hosts a safe community for our members to meet new friends and play games together!
 ---
