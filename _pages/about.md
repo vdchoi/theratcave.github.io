@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Kotatsu
-image: mouseses.png
+image: kotatsu_logo.png
 permalink: /about/
 description: Kotatsu is an inclusive and tight-knit gaming server, that hosts a safe community for our members to meet new friends and play games together!
 ---
@@ -12,7 +12,7 @@ Kotatsu is an inclusive and tight-knit gaming server, that hosts a safe communit
 
 Come join our [Discord Server]!  
 
-[Discord Server]: {{ site.discord }}  
+[Discord Server]: {{ site.discord }} 
 
 ##### Perks #####
 - REGULAR DISCORD NITRO GIVEAWAYS!
@@ -27,4 +27,4 @@ Come join our [Discord Server]!
 - Monthly server updates!
 - Open to suggestions from all members  
 
-<img style="text-align: center" src="{{site.baseurl}}/img/RatCaveWelcome.jpg" height="200">
+<img style="text-align: center" src="{{site.baseurl}}/img/KotatsuWelcome.png" height="200">
