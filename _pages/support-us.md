@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Support Us
-image: kotatsu_banner.jpg
+image: kotatsu_banner_final.png
 permalink: /support-us/
 description: Want to support Kotatsu? Here are some ways! Join our team or booster community, follow our Spotify, or vote for us!
 ---
@@ -61,7 +61,7 @@ Be on the look out for Kotatsu merchandise and Kotatsu Instagram/[Spotify] chann
 
 ##### Again, thank you all of our supporters. We wouldn't have been able to do this without you all. #####  
 
-<img style="text-align: center" src="{{site.baseurl}}/img/mouseses.png" height="200">
+<img style="text-align: center" src="{{site.baseurl}}/img/kotatsu_logo.png" height="200">
 
 
 
